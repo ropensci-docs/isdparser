@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://docs.ropensci.org/isdparser/index.html</loc>
+  </url>
+  <url>
+    <loc>https://docs.ropensci.org/isdparser/reference/isd_metadata.html</loc>
+  </url>
+  <url>
+    <loc>https://docs.ropensci.org/isdparser/reference/isd_parse.html</loc>
+  </url>
+  <url>
+    <loc>https://docs.ropensci.org/isdparser/reference/isd_parse_csv.html</loc>
+  </url>
+  <url>
+    <loc>https://docs.ropensci.org/isdparser/reference/isd_parse_line.html</loc>
+  </url>
+  <url>
+    <loc>https://docs.ropensci.org/isdparser/reference/isd_transform.html</loc>
+  </url>
+  <url>
+    <loc>https://docs.ropensci.org/isdparser/reference/isdparser-package.html</loc>
+  </url>
+  <url>
+    <loc>https://docs.ropensci.org/isdparser/articles/isdparser.html</loc>
+  </url>
+</urlset>

@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "315d5e265ac3717296aa5a0f2a605d65a4dd755b",
+    "author": "Scott Chamberlain <sckott@fastmail.com>",
+    "time": "2020-11-04 22:09:26",
+    "files": 6,
+    "merge": false,
+    "message": "add gh actions badge to readme, fix some urls\n"
+  },
+  "remote": "https://github.com/ropensci/isdparser",
+  "pkg": "isdparser"
+}
